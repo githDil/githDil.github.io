@@ -40,12 +40,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.img-mypic{
-    width: 300px;
-    height: 200px;
-    back-ground-image: url(Dilphoto.jpg);
-    background-size: 200%;
-    background-repeat: no-repeat;
-    
-}
 
