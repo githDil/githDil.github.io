@@ -37,9 +37,10 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-.img-mypic{
-    width: 300px;
-}
 ul.posts li {
     list-style: none;
 }
+.img-mypic{
+    width: 300px;
+}
+
