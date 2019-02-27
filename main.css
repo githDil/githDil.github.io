@@ -5,6 +5,8 @@ body {
     text-align:center;
     background:black;
     color:white;
+    background-position: center;
+    
 }
 
 nav ul, footer ul {
